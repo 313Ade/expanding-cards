@@ -1,2 +1,2 @@
 # expanding-cards
-Repository to create cards(pictures?) that expand when you click
+Create cards(pictures?) that expand when you click
